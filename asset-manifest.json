@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/techstacks/static/css/main.51c85628.css",
+    "main.js": "/techstacks/static/js/main.f7fabf66.js",
+    "static/js/453.0a36081d.chunk.js": "/techstacks/static/js/453.0a36081d.chunk.js",
+    "static/media/mongo.jpg": "/techstacks/static/media/mongo.b9e24b8bb2aef42f7ee6.jpg",
+    "index.html": "/techstacks/index.html",
+    "main.51c85628.css.map": "/techstacks/static/css/main.51c85628.css.map",
+    "main.f7fabf66.js.map": "/techstacks/static/js/main.f7fabf66.js.map",
+    "453.0a36081d.chunk.js.map": "/techstacks/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c85628.css",
+    "static/js/main.f7fabf66.js"
+  ]
+}
