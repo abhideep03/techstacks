@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/techstacks/static/css/main.51c85628.css",
-    "main.js": "/techstacks/static/js/main.f7fabf66.js",
+    "main.css": "/techstacks/static/css/main.e48b0e33.css",
+    "main.js": "/techstacks/static/js/main.0c89346c.js",
     "static/js/453.0a36081d.chunk.js": "/techstacks/static/js/453.0a36081d.chunk.js",
+    "static/media/azure.png": "/techstacks/static/media/azure.dad1ca25d0571f9a4ace.png",
+    "static/media/sqlserver.png": "/techstacks/static/media/sqlserver.233b3b1df436d84d0520.png",
+    "static/media/postgresql.png": "/techstacks/static/media/postgresql.d97d3f5f785fb3da62df.png",
+    "static/media/htmlcss.png": "/techstacks/static/media/htmlcss.c93c3ff60a928c21d6c8.png",
+    "static/media/angular.png": "/techstacks/static/media/angular.d0c8ed3a16d1171b688a.png",
+    "static/media/python.png": "/techstacks/static/media/python.17505b7b7ba2ac2c1a1f.png",
+    "static/media/logo.png": "/techstacks/static/media/logo.fdaabb774720da6c0b32.png",
+    "static/media/php.png": "/techstacks/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/ruby.jpg": "/techstacks/static/media/ruby.7337aed02a8b1438b772.jpg",
+    "static/media/django.png": "/techstacks/static/media/django.4c399895f677cd3bfbc8.png",
     "static/media/mongo.jpg": "/techstacks/static/media/mongo.b9e24b8bb2aef42f7ee6.jpg",
+    "static/media/react.png": "/techstacks/static/media/react.3b5049ea7908e9da3ba0.png",
+    "static/media/vue.png": "/techstacks/static/media/vue.d1885c89147180026e6e.png",
+    "static/media/express.png": "/techstacks/static/media/express.39a0f4c3d981885c64f8.png",
+    "static/media/heroku.png": "/techstacks/static/media/heroku.47c4ba00558f1167afa8.png",
+    "static/media/javascript.png": "/techstacks/static/media/javascript.266bd9fb2663dcc057b4.png",
     "index.html": "/techstacks/index.html",
-    "main.51c85628.css.map": "/techstacks/static/css/main.51c85628.css.map",
-    "main.f7fabf66.js.map": "/techstacks/static/js/main.f7fabf66.js.map",
+    "main.e48b0e33.css.map": "/techstacks/static/css/main.e48b0e33.css.map",
+    "main.0c89346c.js.map": "/techstacks/static/js/main.0c89346c.js.map",
     "453.0a36081d.chunk.js.map": "/techstacks/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51c85628.css",
-    "static/js/main.f7fabf66.js"
+    "static/css/main.e48b0e33.css",
+    "static/js/main.0c89346c.js"
   ]
 }
